@@ -1,6 +1,6 @@
-## WhatsApp Sender
+## WA Sender (WhatsApp Newsletter)
 
-WhatsApp Sender is a program built on the original codebase of [alright](https://github.com/Kalebu/alright) by [Kalebu](https://github.com/Kalebu). It allows users to send bulk messages on WhatsApp.
+WA Sender is a program built on the original codebase of [alright](https://github.com/Kalebu/alright) by [Kalebu](https://github.com/Kalebu). It allows users to send bulk messages on WhatsApp.
 
 ---
 
