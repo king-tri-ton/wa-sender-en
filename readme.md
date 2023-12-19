@@ -41,17 +41,17 @@ WA Sender is a program built on the original codebase of [alright](https://githu
 ### How to Use:
 
 1. **Select Contacts:**
-   - Click the "Обзор" button to choose a text file containing WhatsApp contacts.
+   - Click the "Browse" button to choose a text file containing WhatsApp contacts.
 
 2. **Compose Message:**
-   - Enter the message you want to send in the "Введите сообщение" text area.
+   - Enter the message you want to send in the "Enter the message" text area.
 
 3. **Start Newsletter:**
-   - Click the "Начать рассылку" button to begin sending messages.
+   - Click the "Start Newsletter" button to begin sending messages.
    - Do not close the program until the newsletter is complete.
 
 4. **Logs:**
-   - The "Логи" section displays the progress and results of the newsletter.
+   - The "Logs" section displays the progress and results of the newsletter.
 
 5. **Closing the Program:**
    - If the newsletter is in progress, the program will prompt you to confirm closure.
